@@ -1,0 +1,13 @@
+ PHE
+ ILE
+ GLY
+ GLY
+ LEU
+ LEU
+ LYS
+ THR
+ LEU
+ ALA
+ SER
+ PHE
+ PHE
