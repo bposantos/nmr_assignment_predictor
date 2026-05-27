@@ -40,10 +40,10 @@ if USE_ML:
 # Input Files
 # =========================================================
 
-TOCSY_FILE = "/home/overwatch/Documents/2026_assignment/gnn_test_data/peptide_05/tocsy.list"
-NOESY_FILE = "/home/overwatch/Documents/2026_assignment/gnn_test_data/peptide_05/noesy.list"
-HSQC_FILE = "/home/overwatch/Documents/2026_assignment/gnn_test_data/peptide_05/hsqc.list"
-SEQUENCE_FILE = "/home/overwatch/Documents/2026_assignment/gnn_test_data/peptide_05/sequence.txt"
+TOCSY_FILE = "/nmr_assignment_predictor/data/peptide_05/tocsy.list"
+NOESY_FILE = "/nmr_assignment_predictor/data/peptide_05/noesy.list"
+HSQC_FILE = "/nmr_assignment_predictor/data/peptide_05/hsqc.list"
+SEQUENCE_FILE = "/nmr_assignment_predictor/data/peptide_05/sequence.txt"
 
 # =========================================================
 # Load Experimental Spectra
